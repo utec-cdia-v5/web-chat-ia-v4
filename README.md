@@ -1,4 +1,4 @@
-# Web Chat IA v3
+# Web Chat IA v4
 
 ## Descripcion
 Proyecto serverless con una web estilo ChatGPT y un microservicio (agente-ia) con memoria en DynamoDB. La web consume un API REST y muestra respuestas en Markdown.
