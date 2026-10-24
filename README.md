@@ -56,5 +56,4 @@ Crea una web responsiva con estas funcionalidades:
 
 ## Elementos adicionales
 - La web debe ser parecida a la de ChatGPT
-"""
 
