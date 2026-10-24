@@ -6,7 +6,7 @@ Proyecto serverless con una web estilo ChatGPT y un microservicio (agente-ia) co
 ## Arquitectura
 - Frontend: React + Vite (Node.js >= 22), desplegado en S3 publico
 - Backend: API Gateway + Lambda (Python 3.14) + DynamoDB
-- IA: Groq API con modelo `llama-3.3-70b-versatile`
+- IA: Groq API con modelo `openai/gpt-oss-120b`
 - IaC: Serverless Framework v4
 
 ## Estructura
