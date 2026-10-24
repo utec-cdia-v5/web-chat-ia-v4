@@ -32,6 +32,7 @@ Creado con GitHub Copilot usando el modelo GPT-5.2-Codex.
 Fecha de creacion: 8 de febrero de 2026.
 
 ## Prompt utilizado
+
 """
 ## Rol / Persona
 Actua como un experto en crear Agentes de IA con servicios de AWS y apis de IA
@@ -56,4 +57,4 @@ Crea una web responsiva con estas funcionalidades:
 
 ## Elementos adicionales
 - La web debe ser parecida a la de ChatGPT
-
+"""
